@@ -30,8 +30,8 @@ The analysis is based on a dataset that contains 149,860 entries and 12 columns.
 
 ## Getting Started
 Clone this repository to your local machine.
-*Ensure you have the required libraries installed (pandas, seaborn, and matplotlib). If not, you can install them using pip:
-** pip install pandas seaborn matplotlib
-*Open the Spotify.ipynb file in a Jupyter Notebook environment (e.g., Jupyter, VS Code with the Jupyter extension).
+* Ensure you have the required libraries installed (pandas, seaborn, and matplotlib). If not, you can install them using pip:
+pip install pandas seaborn matplotlib
+* Open the Spotify.ipynb file in a Jupyter Notebook environment (e.g., Jupyter, VS Code with the Jupyter extension).
 
 Run the cells in the notebook to replicate the analysis.
